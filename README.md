@@ -21,6 +21,29 @@ This repo contains a bunch of useful materials:
 - 📚 Books and eBooks for placement prep
 - ⏳ I will update this repo regularly to add more materail for your prep.
 
+## 📌 Useful Links
+
+### 🔧 Operating Systems
+- [GATE Smashers (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+- [Unacademy OS - Vishavdeep Sir](https://www.youtube.com/playlist?list=PLG9aCp4uE-s17rFjWM8KchGlffXgOzzVP)
+- [CodeHelp OS Playlist](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)
+- [OS Revision by Anuj Bhaiya](https://youtu.be/8XBtAjKwCm4?si=lBA-7dlK-NqdM8Um)
+
+### 👨‍💻 OOPS (Object Oriented Programming)
+- [Unacademy OOPS Playlist](https://www.youtube.com/playlist?list=PLA8BpojmT5JF4KKQCEIqURc71z6nvYXEK)
+- [OOPS by CodeHelp (Babbar)](https://www.youtube.com/watch?v=b3GccK5_KSQ)
+- [OOPS by Apna College](https://www.youtube.com/watch?v=mlIUKyZIUUU&t=86s)
+
+### 🗄️ DBMS (Database Management Systems)
+- [GATE Smashers DBMS Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
+- [CodeHelp DBMS Playlist](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)
+
+### 💾 SQL
+- [SQL Tutorial by Apna College](https://www.youtube.com/watch?v=hlGoQC332VM)
+- [Leetcode SQL 50 Practice Questions](https://leetcode.com/studyplan/top-sql-50/)
+
+---
+
 ## 💬 Why I Made This
 
 I’ve seen the pressure and confusion juniors often face while preparing for internships and placements. I was lucky to have some mentors guide me, and now I want to do the same for you all.
