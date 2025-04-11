@@ -10,6 +10,7 @@ Hi! I'm Md Athar, a final-year student at **IIT (BHU) Varanasi**, pursuing my El
 - 🏦 I received a **full-time role as a Software Engineer at Deutsche Bank**.
 - 💡 I have also worked on various projects in **web development, data science**, and **cloud computing**.
 - 🏆 I've been fortunate to win several coding and tech competitions during college.
+- - 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/md-athar4403/)**
 
 ## 📦 What’s Inside?
 
